@@ -2394,10 +2394,10 @@ EggGroups = Field
 HatchSteps = 5120
 Height = 0.9
 Weight = 39.5
-Colour = Blue
+Colour = Brown
 Shape = BipedalTail
 Habitat = Grassland 
-Category = Dowsing 
+Category = Panhandle 
 Pokedex = rat
 #-------------------------------
 [BOWLLO]
@@ -2759,7 +2759,7 @@ EggGroups = Amorphous,Grass
 HatchSteps = 5355
 Height = 0.6
 Weight = 5.9
-Color = Brown
+Color = Purple
 Shape = Finned
 Category = Rotten
 Pokedex = banana octopus, oh hey its like octilerry but actually makes sense
@@ -2880,7 +2880,7 @@ Height = 0.1
 Weight = 0.1
 Color = Blue
 Shape = Winged
-Category = Hyperactive
+Category = Tiny Bird
 Pokedex = pseudo wannabe 1, this movepool is only beeg because of that wannabe btw
 Evolutions = HUMBEAT,Level,30
 #-------------------------------
@@ -2903,7 +2903,7 @@ Height = 0.3
 Weight = 1.5
 Color = Blue
 Shape = Winged
-Category = Exhaustion
+Category = Collector
 Pokedex = pseudo wannabe 2
 Evolutions = HUMMIPUMMEL,Level,50
 #-------------------------------
@@ -2924,9 +2924,9 @@ EggGroups = Flying
 HatchSteps = 4080
 Height = 0.3
 Weight = 1.8
-Color = Green
+Color = Purple
 Shape = Winged
-Category = Swift Strike
+Category = Illustrious
 Pokedex = pseudo wannabe 3, would make you fighting / flying but people would bitch about it
 #-------------------------------
 [XOLSMOL]
