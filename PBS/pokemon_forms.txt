@@ -17,7 +17,7 @@ Type1 = POISON
 Type2 = ELECTRIC
 BaseStats = 97,63,71,111,145,113
 Abilities = CORROSION
-Height = 0.2
+Height = 0.3
 Weight = 3.5
 #-------------------------------
 [ATELANGLER,1]
@@ -165,6 +165,7 @@ FormName = Frozen
 Type1 = POISON
 Type2 = ICE
 BaseStats = 95,45,145,25,65,130
+Weight = 10.4
 #------------------------------- # 520 bst
 [STRELAVISON,1]
 FormName = School Form
